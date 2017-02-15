@@ -1,0 +1,24 @@
+body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,input,figure,figcaption{margin:0;padding:0;}
+body { font-size:12px; font-family:"微软雅黑"; color: #000;}
+img { border:none; }
+.clearfix:after{content:"";display:block;clear:both;}
+.clearfix{zoom:1;}
+.fl{float:left;}
+.fr{float:right;}
+ul { list-style:none;}
+p { /*text-indent:0.5cm;*/ }
+a { text-decoration:none; cursor:hand; color:#000; }
+input,button{ border:none; background:none; outline:none;}
+.wrap{width:780px; margin:12px auto;}
+/*head start*/
+header{ padding-bottom:25px;height:20px; line-height:20px;}
+.header_top li{ float:left; display:inline; margin-right:8px;}
+.icon_em{ border:1px solid #000; width:115px;}
+.icon_yzm{border:1px solid #000; width:65px;}
+.dl_back{ background:#0056AB; width:74px;}
+.header_top button{ color:#FFF;}
+.header_top a{ text-decoration:underline; color:#0056AB; margin:0 8px;}
+.head_banul{ width:80%;}
+.head_banul li{ text-align:center; float:left; display: block;  border-right:1px solid #F0F0F0; }
+.head_banner{ border-top:1px solid #F0F0F0;}
+.ban_left{ height:210px; width:900px;}

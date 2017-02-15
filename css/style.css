@@ -1,0 +1,93 @@
+@charset "utf-8";
+/* CSS Document */
+.banner{ background:url(../img/banner.jpg) 50% 50%; width:100%; height:376px;}
+.bannerb{ background:url(../img/banner2.jpg) 50% 50%; width:100%; height:376px;}
+.bannerc{ background:url(../img/banner3.jpg) 50% 50%; width:100%; height:376px;}
+.bannerd{background:url(../img/banner4.jpg) 50% 50%; width:100%; height:404px;}
+.bannere{background:url(../img/banner5.jpg) 50% 50%; width:100%; height:375px;}
+.bannerf{background:url(../img/banner6.jpg) 50% 50%; width:100%; height:375px;}
+.bannerg{background:url(../img/banner7.jpg) 50% 50%; width:100%; height:375px;}
+.middle{ height:435px;}
+.bu_img img{ padding:20px 200px;}
+.ban_clgl p{ line-height:25px; text-align:center;}
+.clgl_buttom{ height:648px; background:#F0F0F0;}
+.clgl_buwrap{ padding:0 200px;}
+.td_a{ width:218px; margin-left:38px;}
+.td_a p{ line-height:26px;}
+.cpjs_wr{margin-right:10px;}
+.middle{height:435px; width:100%; background:url(../img/icon/middle_t.jpg) repeat;}
+.middle_left { width:450px;}
+.middle_right{ margin-left:15px; height:auto; width:308px;}
+.mi_rig{height:100px; padding-top:-20px;}
+.mi_rep{ height:85px; }
+.mi_rep h3,.mi_rig img{ float:left;}
+.mi_rep p{ float:left; width:190px;padding-left:8px;}
+.mi_rep h3{ padding-left:8px;}
+.midd_img img{ padding:2px 0;}
+.index_big{ background:#F0F0F0;}
+.index_button{ padding-top:42px;}
+.index_buright{ margin:38px 0 0 38px;}
+.index_buright p{ line-height:30px;}
+.footer_top{ height:42px; background-color:#FF6D00;}
+.index_ban h3{ font-weight:normal; line-height:42px; color:#FFF;}
+.footer_buttom{ height:176px; background:#0056AB; overflow:hidden;}
+.footer_w{font-weight:normal; font-size:16px;color:#FFF; margin-top:34px; margin-bottom:14px;}
+.min_lh{ padding-top:10px;}
+.cpjs_a{ background: url(../img/apjs_bacg.jpg) 10px 10px no-repeat; position:relative; width:389px; height:157px;}
+.cpjs_a b{ position:absolute; top:70px; left:26px; width:108px; font-size:14px;}
+.cpjs_a p{line-height:24px; position:absolute; top:42px; left:160px; width:214px;}
+.cpjs_a img { padding-left:10px; padding-top:10px;}
+.cpjs_buttom{ height:930px; background:#F0F0F0;}
+<!--cgal start-->
+.case_1{height:272px; margin:0 auto 34px;width:780px;}
+.case_1 span{ float:left;width:204px; height:206px;margin:5px 50px 0 10px;}
+.case_1 h2{ color:#074f92; font-size:24px;margin:50px 0 8px 0; padding-top:50px;}
+.case_1 p{ font-size:14px;  line-height:25px;}
+.case_2{width:100%; background:#f2f2f2;}
+.yzsfu_main li{ border-radius:20px; background:#E0E4E5; height:68px; line-height:68px; color:#084683; font-size:30px;text-align:center;}
+.yzsfu_main .lia{ width:540px; margin:16px auto;}
+.yzsfu_main .lib{ width:624px; margin:0 auto;}
+.yzsfu_main .lic{ width:204px; margin:16px auto;}
+.yzsfu_main .lid{ width:204px; margin:0 auto;}
+.yzsfu_main .lie{ width:370px; margin:16px auto;}
+.yzsfu_main .lif{ width:486px; margin:0 auto;}
+.yzsfu_main .lig{ width:370px; margin:16px auto;}
+.yzsfu_main .lih{ width:230px; margin:0 auto;}
+.cs_serve { padding-top:66px; padding-bottom:54px;}
+.cs_serve li{ float:left; width:178px; height:50px; border-radius:15px; margin-right:12px;  line-height:50px; color:#FFF; font-size:30px; text-align:center;}
+.cs_serve .csa{ background:#23AAE2;}
+.cs_serve .csb{ background:#01A185;}
+.cs_serve .csc{ background:#EF8D04;}
+.cs_serve .csd{ background:#FB6969;}
+.ts_text{ color:#084683; font-size:30px; width:624px; margin:54px 138px  auto; text-align:center;}
+.serve_butt { width:234px; height:176px;  background:#F8F8F8; text-align:center; box-shadow:0 5px  10px #9F9F9F; margin-right:10px; border:1px solid #E8E8E8;}
+.serve_butt img{ margin-top:10px;}
+.ban_clgl{ position:relative;}
+.li_change{ position:absolute; left:120px; top:298px; border:1px solid  #E8E8E8; border-radius:15px; height:114px; line-height:114px; text-align:center; width:720px; z-index:-1; font-size:22px; color:#0A4193;}
+.li_changeb{ position:absolute; left:120px; top:480px; border:1px solid  #E8E8E8; border-radius:15px; height:160px; text-align:center; width:720px; z-index:-1; font-size:22px; color:#0A4193; line-height:60px; padding:52px 42px 26px 20px;}
+<!--fucn start-->
+.fucn_banner{ background:#F0F0F0; height:522px; width:100%; border:10px solid #0F0;}
+.td_a h3{color:#2365B1; font-size:20px; text-align:center; padding-top:55px; padding-bottom:12px;}
+.fwcn_butt b{ text-align:center; font-size:30px; color:#2365B1; padding:0 200px;}
+.fucn_ul li{ list-style:outside; margin-bottom:26px;}
+.fucn_ul{ padding-top:20px;}
+.fwcn_butt img{ padding-bottom:46px;}
+<!--about start-->
+.about_banner img{ text-align:center;}
+.gywm_img img{ margin-top:38px;}
+.about_big{ background:#F0F0F0; height:468px;}
+.about_ban img{ padding-top:36px; padding-bottom:26px;}
+.about_lia{ height:64px; color:#FFF; font-size:14px; line-height:40px; position:relative;}
+.about_lia h3{ width:40px; background:#CD4B00;  height:40px; text-align:center; border-radius:30px 0 0 30px; position:absolute; left:0; top:0}
+.ali_p{ width:640px; background:#FF6D00; text-align:center; border-radius:0 30px 30px 0; position:absolute; top:px; left:40px;border-left:3px solid #BC4000;}
+.about_lib{ padding-top:18px; color:#FFF; font-size:14px;  position:relative;}
+.ali_two{width:76px; background:#CD4B00;height:76px; text-align:center; border-radius:30px 0 0 30px; line-height:76px;margin:18px 0; position:absolute; top:58px; left:0;}
+.about_lic{ padding-top:18px; color:#FFF; font-size:14px;  position:relative;}
+.ali_there{width:100px; background:#CD4B00;height:100px; text-align:center; border-radius:30px 0 0 30px; line-height:100px;margin:18px 0; position:absolute; left:0; top:212px;}
+.ali_pa{width:642px; background:#FF6D00; border-radius:0 30px 30px 0; position:absolute; top:76px; left:74px;border-left:3px solid #BC4000;  line-height:22px; padding:16px;}
+.ali_pb{width:642px; background:#FF6D00; border-radius:0 30px 30px 0; position:absolute; top:231px; left:100px;border-left:3px solid #BC4000; line-height:22px; padding:16px;}
+.aboutb{ position:relative; color:#FFF; line-height:40px;}
+.ali_h{width:40px; height:40px; text-align:center;margin:18px  0; background:#CD4B00;border-radius:30px 0 0 30px; margin-left:80px; position:absolute; top:134px; left:0;}
+.ali_s{ position:absolute; top:152px; left:120px; width:506px; background:#FF6D00; height:40px; border-radius:0 30px 30px 0; text-indent:2em;}
+.gywm_pic img{ padding-top:28px;}
+.about_ban{ position:relative; width:780px; margin:0 auto; border:1px s}
